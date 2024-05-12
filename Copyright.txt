@@ -1,7 +1,5 @@
-Soucode ini dibangun dan dirancang oleh:
-
-Programmer: M Fikri Setiadi
-Tahun 	  : 2017
+Programmer: Yayat R
+Tahun 	  : 2024
 Website   : www.mfikri.com 
 Email     : setiadi@mfikri.com
 Lisensi   : OpenSource
